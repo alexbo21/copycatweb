@@ -1,0 +1,46 @@
+*{background:#ffcc99;}
+.site{
+  background:#ffcc99;
+  height:900px;
+  width:100%;
+  border:none;
+  margin:none;
+  border-radius:9px;
+
+}
+
+.div{width:100%;}
+
+.header{
+  left:40px;
+  font-family:helvetica;
+  font-color:white;
+  font-size:60px;
+}
+
+.download{
+
+  height:230px;
+  width:230px;
+  border-radius:9px;
+  border:solid 2px ;
+  position:absolute;
+  float:right;
+}
+
+.downloadNew{
+  height:115px;
+  width:230px;
+  border-radius:9px 9px 0px 0px;
+  background:none;
+  border:none;
+  font-family:helvetica;
+  font-size:23px;
+  font-style:none;
+}
+
+.devline{
+  height:1px;
+  width:230px;
+  background:black;
+}
