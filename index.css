@@ -1,0 +1,162 @@
+*{background:#ffcc99; font-style:none;}
+.site{
+  background:#ffcc99;
+  height:900px;
+  width:100%;
+  border:none;
+  margin:none;
+  border-radius:9px;
+
+}
+
+.div{width:100%;background:none;}
+
+.header{
+  left:40px;
+  font-family:helvetica;
+  font-color:white;
+  font-size:60px;
+}
+
+.download{
+
+  height:130px;
+  width:230px;
+  border-radius:15px;
+  border:solid 4px ;
+  position:absolute;
+  float:right;
+  margin:none;
+  font-size:30px;
+  font-weight:bold;
+
+}
+
+.downloadNew{
+  height:115px;
+  width:230px;
+  border-radius:9px 9px 0px 0px;
+  background:none;
+  border:none;
+  font-family:helvetica;
+  font-size:23px;
+  font-style:none;
+  color:black;
+}
+
+.devline{
+  height:1px;
+  width:230px;
+  background:black;
+}
+
+.github{
+  height:45px;
+  width:130px;
+  border:solid 3.25px #ffcc99;
+  border-radius:70px;
+  font-family:helvetica;
+  font-size:15px;
+  background:none;
+  font-weight:bold;
+  color:#ffcc99;
+  margin:10px;
+}
+
+
+.information{
+  height:600px;
+  width:100%;
+  background:white;
+  margin:none;
+
+}
+
+.headerBar{
+  height:50px;
+  width:100%;
+}
+
+.opt{
+  border:none;
+  font-family:helvetica;
+  box-shadow:none;
+  font-weight:bold;
+  font-size:16px;
+  background:none;
+  margin:8px;
+}
+
+.opt:hover{
+  color:white;
+  border-radius:10px;
+  font-size:19px;
+}
+
+
+
+.sec1H{
+  font-family:helvetica;
+  font-size:60px;
+  font-weight:bold;
+
+}
+
+.sec1ph{
+  font-family:helvetica;
+  font-size:18px;
+  font-weight:normal;
+  width:30%;
+}
+.optButton{
+  height:35px;
+  width:100px;
+  border-radius:70px;
+  border:solid 2px black;
+  box-shadow:none;
+  font-weight:bold;
+  font-size:13px;
+  margin:10px;
+}
+
+.infoHeader{
+  font-family:helvetica;
+  color:#ffcc99;
+  background:none;
+  font-size:70px;
+  font-weight:bold;
+}
+
+.infoP{
+  font-family:helvetica;
+  font-weight:550;
+  font-size:17px;
+  background:none;
+  height:auto;
+  width:350px;
+  color:#ffcc99;
+  margin:5px;
+}
+
+.footer{
+  height:100px;
+  width:100%;
+  background:white;
+
+}
+
+.footerH{
+  font-family:helvetica;
+  font-size:33px;
+  background:none;
+  font-weight:bold;
+  color:#ffcc99;
+}
+
+.footerB{
+  font-family:helvetica;
+  font-size:18px;
+  background:none;
+  color:#ffcc99;
+  font-weight:bold;
+}

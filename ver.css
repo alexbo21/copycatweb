@@ -1,0 +1,110 @@
+.header{
+  font-family:helvetica;
+  font-weight:bold;
+  font-size:30px;
+  color:#ffcc99;
+}
+.opt{
+  border:none;
+  font-family:helvetica;
+  box-shadow:none;
+  font-weight:bold;
+  font-size:16px;
+  background:none;
+  margin:8px;
+}
+
+.div{width:100%;}
+
+/* Footer */
+.footer{
+  height:100px;
+  width:100%;
+  background:#ffcc99;
+
+}
+
+.footerH{
+  font-family:helvetica;
+  font-size:33px;
+  background:none;
+  font-weight:bold;
+  color:white;
+}
+
+.footerB{
+  font-family:helvetica;
+  font-size:18px;
+  background:none;
+  color:white;
+  font-weight:bold;
+}
+
+.footerBB{
+  font-family:helvetica;
+  font-size:18px;
+  background:none;
+  color:#ffcc99;
+  font-weight:bold;
+}
+/* ending footer */
+
+.information{
+  height:600px;
+  width:100%;
+  background:white;
+  margin:none;
+
+}
+
+.infoP{
+  font-family:helvetica;
+  font-weight:550;
+  font-size:17px;
+  background:none;
+  height:auto;
+  width:350px;
+  color:#ffcc99;
+  margin:5px;
+}
+
+.infoHeader{
+  font-family:helvetica;
+  color:#ffcc99;
+  background:none;
+  font-size:70px;
+  font-weight:bold;
+  width:100%;
+}
+
+.github{
+  height:45px;
+  width:130px;
+  border:solid 3.25px #ffcc99;
+  border-radius:70px;
+  font-family:helvetica;
+  font-size:15px;
+  background:none;
+  font-weight:bold;
+  color:#ffcc99;
+  margin:10px;
+}
+
+.versionCon{
+  width:80px;
+  height:auto;
+}
+
+.verDownloads{
+  width:230px;
+  height:80px;
+  box-shadow:none;
+  background:none;
+  border:solid 4px #ffcc99;
+  border-radius:15px;
+  font-family:helvetica;
+  font-weight:bold;
+  font-size:22px;
+  color:#ffcc99;
+  margin:15px;
+}
